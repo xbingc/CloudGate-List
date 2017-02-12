@@ -1,4 +1,3 @@
-
 ^http://(www.)?g.cn https://www.google.com 302
 ^http://(www.)?google.cn https://www.google.com 302
 ^http://youtube.com https://youtube.com 302
