@@ -282,7 +282,6 @@ DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,fz.letv.com
 DOMAIN-SUFFIX,g3.letv.com
 DOMAIN-SUFFIX,minisite.letv.com
-DOMAIN-SUFFIX,n.mark.letv.com
 DOMAIN-SUFFIX,pro.hoye.letv.com
 DOMAIN-SUFFIX,pro.letv.com
 DOMAIN-SUFFIX,stat.letv.com
@@ -394,7 +393,6 @@ DOMAIN,api.newad.ifeng.com
 DOMAIN,apk.shouji.koowo.com
 DOMAIN,apppv.zol.com.cn
 DOMAIN,appstat.dfcfw.com
-DOMAIN,ark.letv.com
 DOMAIN,atanx.alicdn.com
 DOMAIN,atanx2.alicdn.com
 DOMAIN,au.umeng.com
