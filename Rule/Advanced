@@ -57,7 +57,6 @@ DOMAIN-SUFFIX,aenhancers.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,ajsands.com
-DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,alasbarricadas.org
 DOMAIN-SUFFIX,alexdong.com
@@ -71,7 +70,6 @@ DOMAIN-SUFFIX,alternativeto.net
 DOMAIN-SUFFIX,alvinalexander.com
 DOMAIN-SUFFIX,alwaysdata.com
 DOMAIN-SUFFIX,alwaysdata.net
-DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,americanfeedmagazine.com
 DOMAIN-SUFFIX,amiblockedornot.com
@@ -99,10 +97,6 @@ DOMAIN-SUFFIX,ap.org
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,appledaily.com
-DOMAIN-SUFFIX,appledaily.com.hk
-DOMAIN-SUFFIX,appledaily.com.tw
-DOMAIN-SUFFIX,appledailytw.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,app-masurement.com
 DOMAIN-SUFFIX,app-measurement.com
@@ -175,8 +169,6 @@ DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blogs.com
 DOMAIN-SUFFIX,blogsmithmedia.com
-DOMAIN-SUFFIX,blogspot.com
-DOMAIN-SUFFIX,blogspot.hk
 DOMAIN-SUFFIX,bloodshed.net
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.de
@@ -318,10 +310,6 @@ DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,drahelas.ru
 DOMAIN-SUFFIX,drewolanoff.com
 DOMAIN-SUFFIX,dribbble.com
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,dropboxstatic.com
-DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,dtic.mil
 DOMAIN-SUFFIX,dtiserv.com
@@ -447,7 +435,6 @@ DOMAIN-SUFFIX,geometrictools.com
 DOMAIN-SUFFIX,getadblock.com
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,get-digital-help.com
-DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getsmartlinks.com
 DOMAIN-SUFFIX,gfx.ms
@@ -1045,7 +1032,6 @@ DOMAIN-SUFFIX,sowiki.net
 DOMAIN-SUFFIX,speedpluss.org
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,sproutcore.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,sstatic.net
@@ -1106,7 +1092,6 @@ DOMAIN-SUFFIX,teck.in
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,telecomspace.com
 DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,theampfactory.com
 DOMAIN-SUFFIX,theappleblog.com
 DOMAIN-SUFFIX,thebcomplex.com
@@ -1364,7 +1349,6 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yogichen.org
 DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubecn.com
 DOMAIN-SUFFIX,yoyo.org
 DOMAIN-SUFFIX,ytimg.com
@@ -1383,21 +1367,3 @@ DOMAIN-SUFFIX,zonble.net
 DOMAIN-SUFFIX,zootool.com
 DOMAIN-SUFFIX,zoozle.net
 DOMAIN-SUFFIX,zyan.cc
-
-DOMAIN,accounts.google.com
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtube-nocookie.com

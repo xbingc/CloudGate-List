@@ -19,7 +19,6 @@ DOMAIN,apt.feng.com
 DOMAIN,ec4.images-amazon.com
 DOMAIN,ec4.images-amazon.com
 DOMAIN,feng.com
-DOMAIN,font.fonts.googleapis.com
 DOMAIN,gate.hockeyapp.net
 DOMAIN,g-ec4.images-amazon.com
 DOMAIN,g-ec4.images-amazon.com
@@ -87,6 +86,7 @@ DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,duoshuo.com
 DOMAIN-SUFFIX,dytt8.net
@@ -172,7 +172,6 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,supercell.net
-DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tmall.com
