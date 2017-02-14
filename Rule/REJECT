@@ -391,6 +391,7 @@ DOMAIN-SUFFIX,union.6.cn
 DOMAIN-SUFFIX,x.da.hunantv.com
 
 // AD Block
+DOMAIN,1.win7china.com
 DOMAIN,2.win7china.com
 DOMAIN,7pulxu.z0.glb.cloudcdn.com
 DOMAIN,acs4baichuan.m.taobao.com
