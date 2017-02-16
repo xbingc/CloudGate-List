@@ -33,11 +33,6 @@ wlmonitor,REJECT
 zjtoolbar,REJECT
 
 -cn,DIRECT
-360buy,DIRECT
-alipay,DIRECT
-baidupcs,DIRECT
-jdpay,DIRECT
-taobao,DIRECT
 
 aka,Proxy
 amazon,Proxy
