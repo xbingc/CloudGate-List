@@ -1,5 +1,37 @@
+// Client
+PROCESS-NAME,Dropbox,Proxy
+PROCESS-NAME,Facebook,Proxy
+PROCESS-NAME,Instagram,Proxy
+PROCESS-NAME,iTranslate,Proxy
+PROCESS-NAME,Spotify,Proxy
+PROCESS-NAME,Surge,Proxy
+PROCESS-NAME,Telegram,Proxy
+PROCESS-NAME,Tweetbot,Proxy
+
+PROCESS-NAME,AVOS,DIRECT
+PROCESS-NAME,MicroMessenger,DIRECT
+PROCESS-NAME,QQ,DIRECT
+PROCESS-NAME,Spark,DIRECT
+PROCESS-NAME,WeChat,DIRECT
+
 // User-agent
-USER-AGENT,CodeHub*,ProxyUSER-AGENT,Dropbox*,ProxyUSER-AGENT,Facebook*,ProxyUSER-AGENT,GitHubMac*,ProxyUSER-AGENT,Google*,ProxyUSER-AGENT,Instagram*,ProxyUSER-AGENT,iTranslate*,ProxyUSER-AGENT,Jeff*,ProxyUSER-AGENT,ph.telegra.Telegraph*,ProxyUSER-AGENT,Speedtest*,ProxyUSER-AGENT,Spotify*,ProxyUSER-AGENT,TMTumblrSDK*,ProxyUSER-AGENT,Tumblr*,ProxyUSER-AGENT,Tweetbot*,ProxyUSER-AGENT,Twitter*,ProxyUSER-AGENT,YouTube*,Proxy
+USER-AGENT,CodeHub*,Proxy
+USER-AGENT,Dropbox*,Proxy
+USER-AGENT,Facebook*,Proxy
+USER-AGENT,GitHubMac*,Proxy
+USER-AGENT,Google*,Proxy
+USER-AGENT,Instagram*,Proxy
+USER-AGENT,iTranslate*,Proxy
+USER-AGENT,Jeff*,Proxy
+USER-AGENT,ph.telegra.Telegraph*,Proxy
+USER-AGENT,Speedtest*,Proxy
+USER-AGENT,Spotify*,Proxy
+USER-AGENT,TMTumblrSDK*,Proxy
+USER-AGENT,Tumblr*,Proxy
+USER-AGENT,Tweetbot*,Proxy
+USER-AGENT,Twitter*,Proxy
+USER-AGENT,YouTube*,Proxy
+USER-AGENT,com.google.ios.youtube*,Proxy
 
 USER-AGENT,balls*,DIRECT
 USER-AGENT,DYZB*,DIRECT
@@ -15,4 +47,8 @@ USER-AGENT,qqlive4iphone*,DIRECT
 USER-AGENT,Spark*,DIRECT
 USER-AGENT,WeChat*,DIRECT
 
-USER-AGENT,Advert*,REJECT
+URL-REGEX,.*cb.js$,REJECT
+URL-REGEX,.*freshguidad.php$,REJECT
+URL-REGEX,.*sdkad.php$,REJECT
+URL-REGEX,.*wbpullad.lua$,REJECT
+URL-REGEX,.*winad.php$,REJECT

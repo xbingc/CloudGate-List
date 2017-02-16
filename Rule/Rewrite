@@ -1,6 +1,14 @@
 // 163 music
 ^.+p3.music.126.net/+/(\d).jpg?res=(\d) _reject
 
+// cnzz
+^.+s19.cnzz.com _ reject
+^.+w.cnzz.com _ reject
+
+// Douyu
+^.+capi.douyucdn.cn/lapi/sign/appapi/ _ reject
+^.+staticlive.douyucdn.cn/upload/signs/ _ reject
+
 // ele
 ^.+m.elecfans.com/static/js/ad.js _ reject
 ^.+www1.elecfans.com/www/delivery/ _ reject
@@ -102,31 +110,32 @@
 // ooxx
 ^http://(www.)?g.cn https://www.google.com 302
 ^http://(www.)?google.cn https://www.google.com 302
-^http://(www\.)?jd\.(cn|com) https://m.jd.com 302
 ^http://youtube.com https://youtube.com 302
-^http://coupon.m.jd.com/ https://coupon.m.jd.com/ 302
-^http://h5.m.jd.com/ https://h5.m.jd.com/ 302
 ^http://i.gtimg.cn/ https://i.gtimg.cn/ 302
-^http://item.m.jd.com/ https://item.m.jd.com/ 302
 ^http://m.taobao.com/ https://m.taobao.com/ 302
 ^http://m.yhd.com/1/? http://m.yhd.com/1/?adbock=
-^http://newcz.m.jd.com/ https://newcz.m.jd.com/ 302
-^http://p.m.jd.com/ https://p.m.jd.com/ 302
-^http://so.m.jd.com/ https://so.m.jd.com/ 302
 ^http://sqimg.qq.com/ https://sqimg.qq.com/ 302
 ^http://taobao.com/ https://m.taobao.com/ 302
 ^http://www.taobao.com/ https://m.taobao.com/ 302
+^http://so.m.jd.com/ https://so.m.jd.com/ 302
+^http://item.m.jd.com/ https://item.m.jd.com/ 302
+^http://newcz.m.jd.com/ https://newcz.m.jd.com/ 302
+^http://p.m.jd.com/ https://p.m.jd.com/ 302
+^http://coupon.m.jd.com/ https://coupon.m.jd.com/ 302
+^http://h5.m.jd.com/ https://h5.m.jd.com/ 302
+^http://m.jd.com https://m.jd.com 302
+^http://www.jd.com https://www.jd.com 302
+^http://vip.jd.com https://vip.jd.com 302
+^http://vip.jr.jd.com https://vip.jr.jd.com 302
+^http://jr.jd.com https://jr.jd.com 302
+^http://www.urlshare.cn/umirror_url_check http://httpbin.org/redirect-to header
 
-// reject
+// Other
 ^.+bbsanalytics.weiphone.net _ reject
-^.+capi.douyucdn.cn/lapi/sign/appapi/ _ reject
 ^.+img.53site.com/Werewolf/AD _ reject
 ^.+inoreader.com/adv/ _ reject
 ^.+mp.weixin.qq.com/mp/report _ reject
-^.+s19.cnzz.com _ reject
 ^.+static.cnbetacdn.com/assets/adv _ reject
-^.+staticlive.douyucdn.cn/upload/signs/ _ reject
-^.+w.cnzz.com _ reject
 ^.+www.cnbeta.com/assets/js/cb.js _ reject
 ^.+www.lianbijr.com/adPage/* _reject
 
@@ -142,6 +151,7 @@
 ^.+120.55.199.139 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^.+122.226.223.163 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^.+139.196.239.52 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
+^.+180.76.155.58 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^.+183.131.79.30 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^.+211.155.94.198 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^.+211.98.70.226:8080/ https://burpsuite.site/Other/Application/ChinaRailcom/ChinaRailcom.php 302
