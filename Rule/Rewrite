@@ -1,3 +1,5 @@
+// URL
+
 // 163 music
 ^.+p3.music.126.net/+/(\d).jpg?res=(\d) _reject
 
@@ -60,6 +62,9 @@
 ^.+r.inews.qq.com/getNewsRemoteConfig _ reject
 ^.+r.inews.qq.com/searchHotCatList _ reject
 ^.+r.inews.qq.com/upLoadLoc _ reject
+
+// Tonghuashun
+^.+adm.10jqka.com.cn/img/ad _ reject
 
 // Toutiao
 ^.+p\d{1}.pstatp.com/origin _ reject

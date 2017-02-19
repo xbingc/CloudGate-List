@@ -9,6 +9,7 @@ admarvel,REJECT
 admaster,REJECT
 admob,REJECT
 adsage,REJECT
+adsensor,REJECT
 adsh,REJECT
 adsmogo,REJECT
 adsrvmedia,REJECT
@@ -20,10 +21,12 @@ duomeng,REJECT
 dwtrack,REJECT
 guanggao,REJECT
 lianmeng,REJECT
+mobaders,REJECT
 omgmta,REJECT
 openx,REJECT
 partnerad,REJECT
 pingfore,REJECT
+qtmojo,REJECT
 supersonicads,REJECT
 tracking,REJECT
 uedas,REJECT
