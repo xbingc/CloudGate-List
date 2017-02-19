@@ -5,8 +5,7 @@
 DOMAIN-SUFFIX,xs.houyi.baofeng.net
 
 // mgtv
-DOMAIN-SUFFIX,g.cn.miaozhen.com
-DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,g.cn.miaozhen.com,REJECT
 DOMAIN-SUFFIX,x.da.hunantv.com
 DOMAIN-SUFFIX,y.da.hunantv.com
 
@@ -107,7 +106,7 @@ DOMAIN-SUFFIX,static.g.ppstream.com
 DOMAIN-SUFFIX,asimgs.pplive.cn
 DOMAIN-SUFFIX,de.as.pptv.com
 DOMAIN-SUFFIX,jp.as.pptv.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,pp2.pptv.com
+DOMAIN-SUFFIX,pp2.pptv.com
 DOMAIN-SUFFIX,stat.pptv.com
 DOMAIN-SUFFIX,afp.pplive.com
 
@@ -176,7 +175,6 @@ DOMAIN-SUFFIX,update.360safe.com
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 DOMAIN-SUFFIX,afp.alicdn.com
-DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,alipaylog.com
 DOMAIN-SUFFIX,amdc.alipay.com
 DOMAIN-SUFFIX,amdc.m.taobao.com
@@ -292,11 +290,7 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,mobileads.google.com
 DOMAIN-SUFFIX,pagead.google.com
-DOMAIN-SUFFIX,pagead.googlesyndication.com
 DOMAIN-SUFFIX,pagead.l.google.com
-DOMAIN-SUFFIX,pagead1.googlesyndication.com
-DOMAIN-SUFFIX,pagead2.googlesyndication.com
-DOMAIN-SUFFIX,pagead3.googlesyndication.com
 DOMAIN-SUFFIX,pagead-tpc.l.google.com
 DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
