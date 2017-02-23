@@ -1,3 +1,4 @@
+
 www.pcbeta.com = 218.93.127.136
 bbs.pcbeta.com = 218.93.127.136
 mac.pcbeta.com = 218.93.127.136
@@ -10,11 +11,11 @@ cdn.pcbeta.attachment.inimc.com = 218.93.127.136
 cdn.pcbeta.img.inimc.com = 218.93.127.136
 
 // Apple
-aod.itunes.apple.com = hkg.aapldns.xyz
-aodp.itunes.apple.com = hkg.aapldns.xyz
-appldnld.apple.com = hkg.aapldns.xyz
-iosapps.itunes.apple.com = hkg.aapldns.xyz
-itsliveradio.apple.com = 42.99.128.168
-osxapps.itunes.apple.com = hkg.aapldns.xyz
-streamingaudio.itunes.apple.com = hkg.aapldns.xyz
-swcdn.apple.com = hkg.aapldns.xyz
+// aod.itunes.apple.com = hkg.aapldns.xyz
+// aodp.itunes.apple.com = hkg.aapldns.xyz
+// appldnld.apple.com = hkg.aapldns.xyz
+// iosapps.itunes.apple.com = hkg.aapldns.xyz
+// itsliveradio.apple.com = 42.99.128.168
+// osxapps.itunes.apple.com = hkg.aapldns.xyz
+// streamingaudio.itunes.apple.com = hkg.aapldns.xyz
+// swcdn.apple.com = hkg.aapldns.xyz
