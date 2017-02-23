@@ -1,4 +1,5 @@
-# direct
+
+# direct ／ proxy
 
 // Sony
 DOMAIN-SUFFIX,playstation.com
@@ -11,6 +12,8 @@ DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 // Accelerate direct sites
+DOMAIN-KEYWORD,-cn
+
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,com.cn
 
@@ -25,14 +28,12 @@ DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,adobesc.com
 DOMAIN-SUFFIX,air-matters.com
-DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bbs.feng.com
 DOMAIN-SUFFIX,bdimg.com
@@ -102,6 +103,7 @@ DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myunlu.com
 DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,pstatp.com
@@ -165,6 +167,7 @@ DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,yixia.com
+DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youku.com

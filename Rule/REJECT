@@ -1,11 +1,11 @@
-# reject
 
+# reject
 // Ads in Video apps
 // baofeng
 DOMAIN-SUFFIX,xs.houyi.baofeng.net
 
 // mgtv
-DOMAIN-SUFFIX,g.cn.miaozhen.com,REJECT
+DOMAIN-SUFFIX,g.cn.miaozhen.com
 DOMAIN-SUFFIX,x.da.hunantv.com
 DOMAIN-SUFFIX,y.da.hunantv.com
 
@@ -232,7 +232,6 @@ DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,hmma.baidu.com
 DOMAIN-SUFFIX,imageplus.baidu.com
 DOMAIN-SUFFIX,itsdata.map.baidu.com
-DOMAIN-SUFFIX,libs.baidu.com
 DOMAIN-SUFFIX,log.nuomi.com
 DOMAIN-SUFFIX,log.waimai.baidu.com
 DOMAIN-SUFFIX,ma.baidu.com
@@ -413,11 +412,8 @@ DOMAIN-SUFFIX,zhuanfakong.com
 // Sougou
 DOMAIN-SUFFIX,123.sogou.com
 DOMAIN-SUFFIX,brand.sogou.com
-DOMAIN-SUFFIX,cpc.brand.sogou.com
-DOMAIN-SUFFIX,eff.inte.sogou.com
 DOMAIN-SUFFIX,get.sogou.com
 DOMAIN-SUFFIX,inte.sogou.com
-DOMAIN-SUFFIX,p.inte.sogou.com
 DOMAIN-SUFFIX,pb.sogou.com
 DOMAIN-SUFFIX,wan.sogou.com
 
@@ -439,7 +435,6 @@ DOMAIN-SUFFIX,wkanc.com
 DOMAIN,liveupdate.mac.sandai.net
 
 // AD Block
-
 DOMAIN,api.instabug.com
 DOMAIN,api.segment.io
 DOMAIN,de.soquair.com
