@@ -7,6 +7,8 @@
 114.247.28.96/32,REJECT,no-resolve
 // ShangHai Unicom Float
 220.196.52.141/32,REJECT,no-resolve
+// Shenzhen Unicom Float
+120.80.57.123/32,REJECT,no-resolve
 // Jiangsu Telecom Float
 221.228.17.152/32,REJECT,no-resolve
 // WuHan Telecom Float
