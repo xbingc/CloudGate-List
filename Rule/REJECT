@@ -144,7 +144,7 @@ DOMAIN-SUFFIX,g.163.com
 DOMAIN-SUFFIX,g1.163.com
 DOMAIN-SUFFIX,gb.corp.163.com
 DOMAIN-SUFFIX,img1.126.net
-DOMAIN-SUFFIX,nex.163.com,REJECT
+DOMAIN-SUFFIX,nex.163.com
 DOMAIN-SUFFIX,oadz.com
 DOMAIN-SUFFIX,oimagea2.ydstatic.com
 DOMAIN-SUFFIX,pagechoice.net
@@ -438,6 +438,7 @@ DOMAIN,liveupdate.mac.sandai.net
 // AD Block
 DOMAIN,api.instabug.com
 DOMAIN,api.segment.io
+DOMAIN,api-deal.kechenggezi.com
 DOMAIN,de.soquair.com
 DOMAIN,ic.snssdk.com
 DOMAIN,init.icloud-analysis.com
@@ -509,6 +510,7 @@ DOMAIN-SUFFIX,angsrvr.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anysdk.com
 DOMAIN-SUFFIX,aoodoo.feng.com
+DOMAIN-SUFFIX,api-z.weidian.com
 DOMAIN-SUFFIX,appads.com
 DOMAIN-SUFFIX,appboy.com
 DOMAIN-SUFFIX,applifier.com
@@ -565,6 +567,7 @@ DOMAIN-SUFFIX,hosting.miarroba.info
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,image.gentags.com
 DOMAIN-SUFFIX,immob.cn
+DOMAIN-SUFFIX,inad.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,intely.cn
@@ -625,6 +628,7 @@ DOMAIN-SUFFIX,qtmojo.com
 DOMAIN-SUFFIX,quantserve.com
 DOMAIN-SUFFIX,qxxys.com
 DOMAIN-SUFFIX,reachmax.cn
+DOMAIN-SUFFIX,res.gwifi.com.cn
 DOMAIN-SUFFIX,responsys.net
 DOMAIN-SUFFIX,revsci.net
 DOMAIN-SUFFIX,rlcdn.com
