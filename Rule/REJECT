@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,msg2.video.qiyi.com
 DOMAIN-SUFFIX,msga.cupid.iqiyi.com
 DOMAIN-SUFFIX,paopao.iqiyi.com
 DOMAIN-SUFFIX,rcd.iqiyi.com
-IP-CIDR,123.125.117.0/22,no-resolve
 
 // Youku & Tudou
 DOMAIN-SUFFIX,actives.youku.com
