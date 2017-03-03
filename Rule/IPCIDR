@@ -1,4 +1,5 @@
 
+101.227.14.80/29,REJECT
 123.125.117.0/22,REJECT
 
 // Beijing Mobile Float
