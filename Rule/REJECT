@@ -54,6 +54,11 @@ DOMAIN-SUFFIX,val.api.youku.com
 DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrectab.youku.com
 
+// kankan
+DOMAIN-SUFFIX,biz5.kankan.com,REJECT
+DOMAIN-SUFFIX,logic.cpm.cm.kankan.com,REJECT
+DOMAIN-SUFFIX,float.kankan.com,REJECT
+
 // ku6
 DOMAIN-SUFFIX,gug.ku6cdn.com
 DOMAIN-SUFFIX,pq.stat.ku6.com
@@ -69,7 +74,6 @@ DOMAIN-SUFFIX,g3.letv.com
 DOMAIN-SUFFIX,letv.allyes.com
 DOMAIN-SUFFIX,letv.irs01.com
 DOMAIN-SUFFIX,minisite.letv.com
-// DOMAIN-SUFFIX,n.mark.letv.com
 DOMAIN-SUFFIX,plog.dc.letv.com
 DOMAIN-SUFFIX,pro.hoye.letv.com
 DOMAIN-SUFFIX,pro.letv.com
