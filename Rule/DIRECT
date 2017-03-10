@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,sony.com.hk
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
-// Accelerate direct sites
-DOMAIN-KEYWORD,-cn
-
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,com.cn
 
