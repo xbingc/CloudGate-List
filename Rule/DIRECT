@@ -1,4 +1,3 @@
-
 # direct ／ proxy
 
 // Sony
@@ -10,6 +9,9 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sony.com.hk
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+// Accelerate direct sites
+DOMAIN-KEYWORD,-cn
 
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,com.cn
@@ -25,12 +27,14 @@ DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,adobesc.com
 DOMAIN-SUFFIX,air-matters.com
+DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bbs.feng.com
 DOMAIN-SUFFIX,bdimg.com
@@ -48,6 +52,7 @@ DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cmfu.com
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,cnbetacdn.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,douban.com
@@ -76,7 +81,6 @@ DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,images-amazon.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,ixdzs.com
@@ -90,6 +94,7 @@ DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lemicp.com
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcloud.com
+DOMAIN-SUFFIX,lucifr.com
 DOMAIN-SUFFIX,luoo.net
 DOMAIN-SUFFIX,lxdns.com
 DOMAIN-SUFFIX,mi.com
@@ -131,6 +136,7 @@ DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,suning.com
@@ -164,10 +170,10 @@ DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,yixia.com
-DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,zgslb.net
 DOMAIN-SUFFIX,zhihu.com
