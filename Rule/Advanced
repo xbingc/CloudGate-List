@@ -1,15 +1,18 @@
+
 # proxy
 
 // Kakao Talk
 DOMAIN-SUFFIX,kakao.com
 
 // Line
-DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-apps.com,force-remote-dns
 DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line.me,force-remote-dns
+DOMAIN-SUFFIX,line.naver.jp,force-remote-dns
 
 // MytvSUPER & Netflix
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -29,7 +32,6 @@ DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
-DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,aerisapi.com
@@ -117,7 +119,6 @@ DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,content.office.net
-DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,danilo.to
 DOMAIN-SUFFIX,daolan.net
@@ -279,12 +280,14 @@ DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,nextmedia.com
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nrk.no
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onedrive.com
@@ -433,7 +436,6 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typography.com
-DOMAIN-SUFFIX,uProxy.org
 DOMAIN-SUFFIX,ubertags.com
 DOMAIN-SUFFIX,ublock.org
 DOMAIN-SUFFIX,ubnt.com
@@ -447,6 +449,7 @@ DOMAIN-SUFFIX,unblocksites.co
 DOMAIN-SUFFIX,unpo.org
 DOMAIN-SUFFIX,untraceable.us
 DOMAIN-SUFFIX,uploaded.net
+DOMAIN-SUFFIX,uProxy.org
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,urlparser.com
 DOMAIN-SUFFIX,us.to

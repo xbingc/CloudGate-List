@@ -27,8 +27,6 @@
 61.160.200.252/32,REJECT,no-resolve
 // Shanghai guang sheng
 221.228.214.101/32,REJECT,no-resolve
-// Shenzhen Unicom Float
-120.80.57.123/32,REJECT,no-resolve
 // Hefei Telecom Float
 61.132.216.232/32,REJECT,no-resolve
 61.132.221.146/32,REJECT,no-resolve
