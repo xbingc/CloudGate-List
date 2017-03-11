@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,static.g.ppstream.com
 
 // iqiyi-qiyi
 DOMAIN-SUFFIX,api.cupid.qiyi.com
+
 // xunlei kankan
 DOMAIN-SUFFIX,biz5.kankan.com
 DOMAIN-SUFFIX,logic.cpm.cm.kankan.com
@@ -512,6 +513,7 @@ DOMAIN-SUFFIX,service.urchin.com
 
 // JD
 DOMAIN,jzt.jd.com
+DOMAIN-SUFFIX,cps.360buy.com
 DOMAIN,policy.jd.com
 DOMAIN-SUFFIX,stat.m.jd.com
 DOMAIN-SUFFIX,x.jd.com
@@ -688,6 +690,12 @@ DOMAIN-SUFFIX,ios-dc.51y5.net
 DOMAIN-SUFFIX,news-img.51y5.net
 DOMAIN-SUFFIX,wkanc.com
 
+// Ximalaya
+DOMAIN-SUFFIX,adse.ximalaya.com
+DOMAIN-SUFFIX,linkeye.ximalaya.com
+DOMAIN-SUFFIX,location.ximalaya.com
+DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
+
 // Xunlei
 DOMAIN,liveupdate.mac.sandai.net
 
@@ -747,7 +755,6 @@ DOMAIN-SUFFIX,ads.genieessp.com
 DOMAIN-SUFFIX,ads.mobclix.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,adsame.com
-DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,adsunflower.com
 DOMAIN-SUFFIX,adsunion.com
 DOMAIN-SUFFIX,adups.com
@@ -796,12 +803,10 @@ DOMAIN-SUFFIX,chmae.com
 DOMAIN-SUFFIX,clicktracks.com
 DOMAIN-SUFFIX,clickzs.com
 DOMAIN-SUFFIX,cmcore.com
-DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cocounion.com
 DOMAIN-SUFFIX,collector.githubapp.com
 DOMAIN-SUFFIX,coolguang.com
 DOMAIN-SUFFIX,coremetrics.com
-DOMAIN-SUFFIX,cps.360buy.com
 DOMAIN-SUFFIX,cpx24.com
 DOMAIN-SUFFIX,crosschannel.com
 DOMAIN-SUFFIX,crunchyroll.com
@@ -852,9 +857,7 @@ DOMAIN-SUFFIX,kejet.net
 DOMAIN-SUFFIX,kmd365.com
 DOMAIN-SUFFIX,krux.net
 DOMAIN-SUFFIX,leadboltads.net
-DOMAIN-SUFFIX,linkeye.ximalaya.com
 DOMAIN-SUFFIX,localytics.com
-DOMAIN-SUFFIX,location.ximalaya.com
 DOMAIN-SUFFIX,log.outbrain.com
 DOMAIN-SUFFIX,log.umsns.com
 DOMAIN-SUFFIX,lotuseed.com
@@ -956,7 +959,6 @@ DOMAIN-SUFFIX,wooboo.com.cn
 DOMAIN-SUFFIX,wqmobile.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,xdbwc.com
-DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
 DOMAIN-SUFFIX,xiaozhen.com
 DOMAIN-SUFFIX,xibao100.com
 DOMAIN-SUFFIX,xmpush.xiaomi.com
