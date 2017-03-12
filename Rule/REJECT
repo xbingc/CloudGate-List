@@ -596,18 +596,7 @@ DOMAIN-SUFFIX,antivirus.baidu.com
 DOMAIN-SUFFIX,api.cpu.baidu.com
 DOMAIN-SUFFIX,api.mobula.sdk.duapps.com
 DOMAIN-SUFFIX,api.share.baidu.com
-DOMAIN-SUFFIX,api.tuisong.baidu.com
 DOMAIN-SUFFIX,api.youqian.baidu.com
-DOMAIN-SUFFIX,api0.tuisong.baidu.com
-DOMAIN-SUFFIX,api1.tuisong.baidu.com
-DOMAIN-SUFFIX,api2.tuisong.baidu.com
-DOMAIN-SUFFIX,api3.tuisong.baidu.com
-DOMAIN-SUFFIX,api4.tuisong.baidu.com
-DOMAIN-SUFFIX,api5.tuisong.baidu.com
-DOMAIN-SUFFIX,api6.tuisong.baidu.com
-DOMAIN-SUFFIX,api7.tuisong.baidu.com
-DOMAIN-SUFFIX,api8.tuisong.baidu.com
-DOMAIN-SUFFIX,api9.tuisong.baidu.com
 DOMAIN-SUFFIX,appx.91.com
 DOMAIN-SUFFIX,as.baidu.com
 DOMAIN-SUFFIX,ashifen.com
@@ -713,7 +702,6 @@ DOMAIN-SUFFIX,rj.baidu.com
 DOMAIN-SUFFIX,rp.baidu.com
 DOMAIN-SUFFIX,rplog.baidu.com
 DOMAIN-SUFFIX,s.cpro.baidu.com
-DOMAIN-SUFFIX,sa1.tuisong.baidu.com
 DOMAIN-SUFFIX,sclick.baidu.com
 DOMAIN-SUFFIX,sestat.baidu.com
 DOMAIN-SUFFIX,share.baidu.com
