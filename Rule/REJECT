@@ -120,7 +120,6 @@ DOMAIN-SUFFIX,tracker.sns.iqiyi.com
 
 // iqiyi-pps
 DOMAIN-SUFFIX,androidgo.duapp.com
-DOMAIN-SUFFIX,count.game.pps.tv
 DOMAIN-SUFFIX,game.pps.tv
 DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,msga.71.am
@@ -449,8 +448,6 @@ DOMAIN-SUFFIX,cpull.360.cn
 DOMAIN-SUFFIX,dev.tg.wan.360.cn
 DOMAIN-SUFFIX,display.360totalsecurity.com
 DOMAIN-SUFFIX,down.360safe.com
-DOMAIN-SUFFIX,e.tf.360.cn
-DOMAIN-SUFFIX,guess.tf.360.cn
 DOMAIN-SUFFIX,hot.m.shouji.360tpcdn.com
 DOMAIN-SUFFIX,hs.qhupdate.com
 DOMAIN-SUFFIX,huid.ad.360.cn
@@ -477,13 +474,11 @@ DOMAIN-SUFFIX,s.union.360.cn
 DOMAIN-SUFFIX,s1.stat.lianmeng.360.cn
 DOMAIN-SUFFIX,service.jiagu.360.cn
 DOMAIN-SUFFIX,sh.qihoo.com
-DOMAIN-SUFFIX,shouji.360.cn
 DOMAIN-SUFFIX,soft.data.weather.360.cn
 DOMAIN-SUFFIX,stat.360safe.com
 DOMAIN-SUFFIX,stat.lianmeng.360.cn
 DOMAIN-SUFFIX,stat.m.360.cn
 DOMAIN-SUFFIX,stat.sd.360.cn
-DOMAIN-SUFFIX,stat.tf.360.cn
 DOMAIN-SUFFIX,static.ts.360.com
 DOMAIN-SUFFIX,tf.360.cn
 DOMAIN-SUFFIX,top.h.qhimg.com
@@ -834,7 +829,6 @@ DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adsense.html5.qq.com
 DOMAIN-SUFFIX,adsfile.qq.com
 DOMAIN-SUFFIX,adsolution.imtt.qq.com
-DOMAIN-SUFFIX,aeventlog.beacon.qq.com
 DOMAIN-SUFFIX,aikan.browser.qq.com
 DOMAIN-SUFFIX,analy.qq.com
 DOMAIN-SUFFIX,beacon.gtimg.com
@@ -941,7 +935,6 @@ DOMAIN-SUFFIX,img.adbox.sina.com.cn
 DOMAIN-SUFFIX,img.amp.ad.sina.com.cn
 DOMAIN-SUFFIX,interest.mix.sina.com.cn
 DOMAIN-SUFFIX,log.mix.sina.com.cn
-DOMAIN-SUFFIX,m.beacon.sina.com.cn
 DOMAIN-SUFFIX,m.game.weibo.cn
 DOMAIN-SUFFIX,m.haowj.com.cn
 DOMAIN-SUFFIX,mg.games.sina.com.cn
