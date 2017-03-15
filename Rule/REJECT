@@ -73,60 +73,45 @@ DOMAIN-SUFFIX,t-l.play.cp81.ott.cibntv.net
 // iqiyi
 DOMAIN-SUFFIX,ad.m.iqiyi.com
 DOMAIN-SUFFIX,afp.qiyi.com
-DOMAIN-SUFFIX,c.uaa.iqiyi.com
+DOMAIN-SUFFIX,androidgo.duapp.com
+DOMAIN-SUFFIX,api.cupid.qiyi.com
 DOMAIN-SUFFIX,ckm.iqiyi.com
 DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,cm.passport.iqiyi.com
 DOMAIN-SUFFIX,cupid.iqiyi.com
 DOMAIN-SUFFIX,data.video.qiyi.com
+DOMAIN-SUFFIX,emoticon.sns.iqiyi.com
+DOMAIN-SUFFIX,game.pps.tv
 DOMAIN-SUFFIX,gamecenter.iqiyi.com
+DOMAIN-SUFFIX,hotchat-im.iqiyi.com
 DOMAIN-SUFFIX,ifacelog.iqiyi.com
 DOMAIN-SUFFIX,mbdlog.iqiyi.com
+DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,msg.iqiyi.com
 DOMAIN-SUFFIX,msg.video.qiyi.com
+DOMAIN-SUFFIX,msg2.71.am
 DOMAIN-SUFFIX,msg2.video.qiyi.com
+DOMAIN-SUFFIX,msga.71.am
+DOMAIN-SUFFIX,msga.video.qiyi.com
 DOMAIN-SUFFIX,notice.iqiyi.com
+DOMAIN-SUFFIX,noxagile.duapp.com
 DOMAIN-SUFFIX,paopao.iqiyi.com
-DOMAIN-SUFFIX,policy.video.iqiyi.com
-DOMAIN-SUFFIX,qchannel01.cn
-DOMAIN-SUFFIX,rcd.iqiyi.com
-DOMAIN-SUFFIX,static.g.iqiyi.com
-DOMAIN-SUFFIX,store.iqiyi.com
-DOMAIN-SUFFIX,store.qiyi.com
-DOMAIN-SUFFIX,yuedu.iqiyi.com
-
-// iqiyi-gitv
-DOMAIN-SUFFIX,api.cupid.ptqy.gitv.tv
-DOMAIN-SUFFIX,mixer.cupid.ptqy.gitv.tv
-DOMAIN-SUFFIX,msg.c002.ottcn.com
-DOMAIN-SUFFIX,msg.ptqy.gitv.tv
-DOMAIN-SUFFIX,msg.video.ptqy.gitv.tv
-DOMAIN-SUFFIX,msg2.video.ptqy.gitv.tv
-DOMAIN-SUFFIX,msga.ptqy.gitv.tv
-DOMAIN-SUFFIX,nl.rcd.ptqy.gitv.tv
-DOMAIN-SUFFIX,pb.bi.gitv.tv
-DOMAIN-SUFFIX,store.ptqy.gitv.tv
-DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
-
-// iqiyi-paopao
-DOMAIN-SUFFIX,emoticon.sns.iqiyi.com
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com
 DOMAIN-SUFFIX,paopao0.qiyipic.com
 DOMAIN-SUFFIX,paopao1.qiyipic.com
 DOMAIN-SUFFIX,paopao2.qiyipic.com
 DOMAIN-SUFFIX,paopao3.qiyipic.com
-DOMAIN-SUFFIX,tracker.sns.iqiyi.com
-
-// iqiyi-pps
-DOMAIN-SUFFIX,androidgo.duapp.com
-DOMAIN-SUFFIX,game.pps.tv
-DOMAIN-SUFFIX,msg.71.am
-DOMAIN-SUFFIX,msga.71.am
-DOMAIN-SUFFIX,noxagile.duapp.com
+DOMAIN-SUFFIX,paopaod.qiyipic.com
+DOMAIN-SUFFIX,policy.video.iqiyi.com
+DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,rcd.iqiyi.com
+DOMAIN-SUFFIX,sns.iqiyi.com
+DOMAIN-SUFFIX,static.g.iqiyi.com
 DOMAIN-SUFFIX,static.g.ppstream.com
-
-// iqiyi-qiyi
-DOMAIN-SUFFIX,api.cupid.qiyi.com
+DOMAIN-SUFFIX,store.iqiyi.com
+DOMAIN-SUFFIX,tor.qiyi.com
+DOMAIN-SUFFIX,tracker.sns.iqiyi.com
+DOMAIN-SUFFIX,uaa.iqiyi.com
+DOMAIN-SUFFIX,yuedu.iqiyi.com
 
 // xunlei kankan
 DOMAIN-SUFFIX,biz5.kankan.com
