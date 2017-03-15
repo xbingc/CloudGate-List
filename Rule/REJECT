@@ -499,6 +499,9 @@ DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,w.m.taobao.com
 DOMAIN-SUFFIX,yiliao.hupan.com
 
+// Auto home
+DOMAIN-SUFFIX,adm3.autoimg.cn,REJECT
+
 // Baidu
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,ad.duapps.com
