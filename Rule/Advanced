@@ -61,7 +61,6 @@ DOMAIN-SUFFIX,appledaily.com.tw
 DOMAIN-SUFFIX,appledailytw.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,appshopper.com
-DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,archive.is
@@ -159,7 +158,6 @@ DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,extmatrix.com
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feedly.com
@@ -192,7 +190,6 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
@@ -378,7 +375,6 @@ DOMAIN-SUFFIX,sydneytoday.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tablesgenerator.com
 DOMAIN-SUFFIX,tabtter.jp
@@ -428,7 +424,6 @@ DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
 DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
@@ -504,6 +499,7 @@ DOMAIN-SUFFIX,wenxuecity.com
 DOMAIN-SUFFIX,westca.com
 DOMAIN-SUFFIX,westpoint.edu
 DOMAIN-SUFFIX,whatbrowser.org
+DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,wikileaks.info
 DOMAIN-SUFFIX,wikileaks.org

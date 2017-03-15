@@ -62,16 +62,14 @@
 ^https?://push.feng.com/resource/photo/appimg/launchimage _ reject
 
 // iqiyi
-^https?://(\d{1,3}\.){3}\d{1,3}/videos/other/\d{8}/.* _ reject
+^https?://\/\/(\d+\.){3}\d+\/videos\/other(\/[^\/]+){3}\/[^\.]+.f4v/* _ reject
+^https?://dispatcher.video.qiyi.com/dispn/iam*.swf _ reject
 ^https?://iface.iqiyi.com/api/getNewAdInfo? _ reject
 ^https?://iface2.iqiyi.com/views_pop/3.0/pop_control? _ reject
 ^https?://iface2.iqiyi.com/views_pop/3.0/pop_home? _ reject
-^https?://msg.71.am _ reject
-^https?://msga.cupid.iqiyi.com _ reject
 ^https?://pic\d{1}.qiyipic.com/common _ reject
 
 // Moji
-^https?://ad.api.moji.com/ad/log/stat _ reject
 ^https?://ast.api.moji.com/assist/ad/moji/stat _ reject
 ^https?://cdn.moji.com/adlink/avatarcard _ reject
 ^https?://cdn.moji.com/adlink/common _ reject
@@ -100,12 +98,12 @@
 ^https?://api.mobile.youku.com/adv/ _ reject
 ^https?://api.mobile.youku.com/layout/search/hot/word _ reject
 ^https?://atm.youku.com _ reject
-^https?://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Request/ header
-^https?://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/Request/ header
+^https?://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Request/ 302
+^https?://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/Request/ 302
 ^https?://hd.api.mobile.youku.com/common/v3/hudong/new _ reject
 ^https?://hd.mobile.youku.com/common/v3/hudong/new _ reject
 ^https?://i.gtimg.cn/ https://i.gtimg.cn/ 302
-^https?://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/Request/ header
+^https?://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/Request/ 302
 ^https?://l.youku.com _ reject
 ^https?://m.youku.com/video/libs/iwt.js _ reject
 ^https?://pic.k.sohu.com/img8/wb/tj/ _ reject
@@ -122,38 +120,28 @@
 ^https?://mi.gdt.qq.com/gdt_mview.fcg _ reject
 
 // Sohu
-^https?://agn.aty.sohu.com/m? _ reject
-^https?://api.tv.sohu.com/mobile/control/switch.json? _ reject
-^https?://api.tv.sohu.com/mobile_user/device/clientconf.json? _ reject
-^https?://api.tv.sohu.com/mobile_user/push/uploadtoken.json? _ reject
-^https?://api.tv.sohu.com/v4/mobile/albumdetail.json? _ reject
-^https?://api.tv.sohu.com/v4/mobile/control/switch.json? _ reject
-^https?://hui.sohu.com/predownload2/? _ reject
-^https?://m.aty.sohu.com/openload? _ reject
-^https?://mbl.56.com/config/v1/common/config.union.ios.do? _ reject
-^https?://mmg.aty.sohu.com/mqs? _ reject
-^https?://mmg.aty.sohu.com/pvlog? _ reject
-^https?://s1.api.tv.itc.cn/v4/mobile/feeling/list.json? _ reject
-^https?://s1.api.tv.itc.cn/v4/mobile/searchFunctionConfig/list.json? _ reject
+^https?://agn.aty.sohu.com/m* _ reject
+^https?://api.tv.sohu.com/mobile/control/switch.json _ reject
+^https?://api.tv.sohu.com/mobile_user/device/clientconf.json _ reject
+^https?://api.tv.sohu.com/mobile_user/push/uploadtoken.json _ reject
+^https?://api.tv.sohu.com/v4/mobile/albumdetail.json _ reject
+^https?://api.tv.sohu.com/v4/mobile/control/switch.json _ reject
+^https?://hui.sohu.com/predownload2/* _ reject
+^https?://m.aty.sohu.com/openload* _ reject
+^https?://mbl.56.com/config/v1/common/config.union.ios.do* _ reject
+^https?://mmg.aty.sohu.com/mqs* _ reject
+^https?://mmg.aty.sohu.com/pvlog* _ reject
+^https?://s1.api.tv.itc.cn/v4/mobile/feeling/list.json _ reject
+^https?://s1.api.tv.itc.cn/v4/mobile/searchFunctionConfig/list.json _ reject
 
 // Zhihu
-^https?://api.zhihu.com/carousel? - reject
-^https?://www.zhihu.com/api/v4/banners/mobile_banner? - reject
-^https?://www.zhihu.com/node/Banner? - reject
+^https?://api.zhihu.com/carousel* _ reject
+^https?://www.zhihu.com/api/v4/banners/mobile_banner* _ reject
+^https?://www.zhihu.com/node/Banner* _ reject
 
 // 163 music
 ^https?://163\.com\/madr\?app=\b.*platform=\b.*uid.* _ reject
 ^https?://p3.music.126.net/+/(\d).jpg?res=(\d) _reject
-
-// baidu
-^https?://als.baidu.com/clog/clog _ reject
-^https?://baichuan.baidu.com/rs/adpmobile/launch.* _ reject
-^https?://imgsrc.baidu.com\/forum\/pic\/item/.* _ reject
-^https?://t\d{2}.baidu.com _ reject
-
-// cnzz
-^https?://s19.cnzz.com _ reject
-^https?://w.cnzz.com _ reject
 
 // Douyu
 ^https?://capi.douyucdn.cn/lapi/sign/appapi/ _ reject
@@ -163,31 +151,38 @@
 // ele
 ^https?://elemecdn\.com\/.*\/sitemap.* _ reject
 ^https?://iface2.iqiyi.com/views/3.0/qy_home http://burpsuite.applinzi.com/Request/ header
+^https?://m.elecfans.com/static/js/ad.js _ reject
 ^https?://www1.elecfans.com/www/delivery/ _ reject
 
 // ithome
-^https?://f\d{2}.baidu.com _ reject
+^https?://f\d{2}.baidu.com* _ reject
 
 // letv
-^https?://ark.letv.com\/adx\?adzone=.+ _ reject
-^https?://ark.letv.com\/t\?mid=\d{7}$ _ reject
+^https?://*/letv-gug/* _ reject
 ^https?://api.tv.sohu.com/mobile_user/device/clientconf.json _ reject
 ^https?://api.tv.sohu.com/v4/mobile/control/switch.json _ reject
-^https?://photocdn.sohu.com/tvmobilemvms _ reject
+^https?://ark.letv.com\/adx\?adzone=* _ reject
+^https?://ark.letv.com\/t\?mid=\d{7}$ _ reject
+^https?://js.letvcdn.com/js/*/stats/* _ reject
+^https?://n.mark.letv.com/m3u8api/ http://rewrite.websocket.site:10/Other/Application/Letv/Letv.php header
+^https?://photocdn.sohu.com/tvmobilemvms* _ reject
 
 // Tonghuashun
-^https?://adm.10jqka.com.cn/img/ad _ reject
+^https?://adm.10jqka.com.cn/img/ad* _ reject
 
 // Toutiao
-^https?://p\d{1}.pstatp.com/origin _ reject
-^https?://pb\d{1}.pstatp.com/origin _ reject
+^https?://p\d{1}.pstatp.com/origin* _ reject
+^https?://pb\d{1}.pstatp.com/origin* _ reject
+
+// qq
+^https?://imgcache.qq.com/qqlive/* _ reject
 
 // Weibo
-^https?://api.weibo.cn\/2\/statuses\/longtext_show_batch\?gsid=.* _ reject
+^https?://api.weibo.cn\/2\/statuses\/longtext_show_batch\?gsid=* _ reject
 ^https?://sdkapp.mobile.sina.cn/interface/sdk/actionad.php _ reject
 ^https?://sdkapp.mobile.sina.cn/interface/sdk/sdkad.php _ reject
 ^https?://simg.s.weibo.com/20170301120648_ios.gif _ reject
-^https?://u\d{1}.img.mobile.sina.cn/public/files/image/750x120_ _ reject
+^https?://u\d{1}.img.mobile.sina.cn/public/files/image/750x120* _ reject
 ^https?://wbapp.mobile.sina.cn/interface/f/ttt/v3/freshguidad.php _ reject
 ^https?://wbapp.mobile.sina.cn/interface/win/winad.php _ reject
 ^https?://wbapp.mobile.sina.cn/wbapplua/wbpullad.lua _ reject
@@ -208,8 +203,8 @@
 ^https?://fdfs.xmcdn.com/group25/M05/92/D1/* _ reject
 
 // Youdao
-^https?://oimagea4.ydstatic.com/image?id= _ reject
-^https?://oimageb8.ydstatic.com/image?id= _ reject
+^https?://oimagea4.ydstatic.com/image?id=* _ reject
+^https?://oimageb8.ydstatic.com/image?id=* _ reject
 
 // Yiche
 ^https?://api.ycapp.yiche.com/appnews/getadlist* _ reject
@@ -224,30 +219,25 @@
 ^https?://img.53site.com/Werewolf/AD* _ reject
 
 // douban
-^https?://img3.doubanio.com/view/dale-online/dale_ad _ reject
+^https?://img3.doubanio.com/view/dale-online/dale_ad* _ reject
 
 // Other
 (api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com _ reject
 ^https?://adse.*\.com\/[a-z]{4}\/loading\?appid=.* _ reject
 ^https?://api.tv.sohu.com/v4/mobile/albumdetail.json\?poid=.* _ reject
-^https?://bbsanalytics.weiphone.net _ reject
 ^https?://cfg.m.ttkvod.com/mobile/ttk_mobile_1.8.txt http://ogtre5vp0.bkt.clouddn.com/Static/TXT/ttk_mobile_1.8.txt header
 ^https?://cnzz.com/ http://rewrite.websocket.site:10/Other/Static/Images/background.png? header
-^https?://dd.iask.cn/ddd/adAudit - reject
-^https?://dd.iask.cn/ddd/adAudit _ reject
-^https?://http://reject.example.com reject
-^https?://huichuan.sm.cn/jsad? - reject
+^https?://dd.iask.cn/ddd/adAudit* _ reject
 ^https?://huichuan.sm.cn/jsad? _ reject
-^https?://inoreader.com/adv/ _ reject
+^https?://inoreader.com/adv/* _ reject
 ^https?://issuecdn.baidupcs.com/issue/netdisk/guanggao/ http://rewrite.websocket.site:10/Other/Static/Images/background.png? header
-^https?://m.+.china.com.cn/statics/sdmobile/js/ad _ reject
+^https?://m.+.china.com.cn/statics/sdmobile/js/ad* _ reject
 ^https?://m.+.china.com.cn/statics/sdmobile/js/mobile.advert.js _ reject
 ^https?://m.+.china.com.cn/statics/sdmobile/js/mobileshare.js _ reject
-^https?://m.elecfans.com/static/js/ad.js _ reject
 ^https?://m.yhd.com/1/\? http://m.yhd.com/1/\?adbock= 302
 ^https?://mp.weixin.qq.com/mp/report _ reject
-^https?://n.mark.letv.com/m3u8api/ http://rewrite.websocket.site:10/Other/Application/Letv/Letv.php header
 ^https?://nga\.cn.*\bhome.*\b=ad.* _ reject
+^https?://player.hoge.cn/advertisement.swf _reject
 ^https?://s1.api.tv.itc.cn/v4/mobile/feeling/list.json\?.* _ reject
 ^https?://s3.pstatp.com/inapp/TTAdblock.css _ reject
 ^https?://sqimg.qq.com/ https://sqimg.qq.com/ 302
@@ -255,7 +245,38 @@
 ^https?://static.cnbetacdn.com/assets/adv _ reject
 ^https?://static.iask.cn/m-v20161228/js/common/adAudit.min.js _ reject
 ^https?://static.m.ttkvod.com/static_cahce/index/index.txt http://ogtre5vp0.bkt.clouddn.com/Static/TXT/index.txt header
+^https?://tb1.bdstatic.com/tb/cms/ngmis/adsense/*.jpg _reject
 ^https?://v.17173.com/api/Allyes/ _ reject
 ^https?://wmedia-track.uc.cn _ reject
 ^https?://www.iqshw.com/d/js/m http://rewrite.websocket.site:10/Other/Static/JS/Package.js? header
 ^https?://www.lianbijr.com/adPage/* _reject
+
+// Test
+^https?://*.pstatp.com/origin/* _ reject
+^https?://*/_ad/* _ reject
+^https?://*/a_d/* _ reject
+^https?://*/ad.js _ reject
+^https?://*/AdCenter/* _ reject
+^https?://*/adlink/* _ reject
+^https?://*/ads.js _ reject
+^https?://*/ads/* _ reject
+^https?://*/adsense/* _ reject
+^https?://*/adstat/* _ reject
+^https?://*/adstatic/* _ reject
+^https?://*/advert/* _ reject
+^https?://*/ajds _ reject
+^https?://*/cpv/* _ reject
+^https?://*/guanggao/* _ reject
+^https?://*/java/shang1.js _ reject
+^https?://*/java/xia1.js _ reject
+^https?://*/java/youxia.js _ reject
+^https?://*/java/zuoxia.js _ reject
+^https?://*/js/ad_* _ reject
+^https?://*/js/ads/* _ reject
+^https?://*/js/alls_foot.js _ reject
+^https?://*/js/alls_top.js _ reject
+^https?://*/jsbjl/zhanqun* _ reject
+^https?://*/pc/ad/* _ reject
+^https?://*/VediosAD/* _ reject
+^https?://*/vodad.js _ reject
+^https?://*2012.8684*.com/ _ reject
