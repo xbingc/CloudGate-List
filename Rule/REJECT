@@ -667,6 +667,9 @@ DOMAIN-SUFFIX,zhanzhang.baidu.com
 DOMAIN-SUFFIX,znsv.baidu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 
+// Book
+DOMAIN-SUFFIX,70e.comDOMAIN-SUFFIX,ad.zhangyue.comDOMAIN-SUFFIX,api.itaoxiaoshuo.comDOMAIN-SUFFIX,cj.qidian.comDOMAIN-SUFFIX,drdwy.comDOMAIN-SUFFIX,dwtrack.qidian.comDOMAIN-SUFFIX,e701.netDOMAIN-SUFFIX,game.qidian.comDOMAIN-SUFFIX,jisucn.comDOMAIN-SUFFIX,m.12306media.comDOMAIN-SUFFIX,o.if.qidian.comDOMAIN-SUFFIX,s1.cmfu.comDOMAIN-SUFFIX,sanya1.comDOMAIN-SUFFIX,stats.magicwindow.cnDOMAIN-SUFFIX,tongji.qidian.comDOMAIN-SUFFIX,uedas.qdmm.comDOMAIN-SUFFIX,uedas.qidian.comDOMAIN-SUFFIX,ut2.shuqistat.comDOMAIN-SUFFIX,xyrkl.com,REJECTDOMAIN-SUFFIX,zhuanfakong.com
+
 // Facebook
 DOMAIN-SUFFIX,staticxx.facebook.com
 
@@ -733,19 +736,6 @@ DOMAIN-SUFFIX,xiuxiu.mobile.meitudata.com
 
 // Moji
 DOMAIN-SUFFIX,ad.api.moji.com
-
-// Qidian
-DOMAIN-SUFFIX,ad.zhangyue.com
-DOMAIN-SUFFIX,api.itaoxiaoshuo.com
-DOMAIN-SUFFIX,cj.qidian.com
-DOMAIN-SUFFIX,dwtrack.qidian.com
-DOMAIN-SUFFIX,game.qidian.com
-DOMAIN-SUFFIX,o.if.qidian.com
-DOMAIN-SUFFIX,s1.cmfu.com
-DOMAIN-SUFFIX,tongji.qidian.com
-DOMAIN-SUFFIX,uedas.qdmm.com
-DOMAIN-SUFFIX,uedas.qidian.com
-DOMAIN-SUFFIX,ut2.shuqistat.com
 
 // QQ
 DOMAIN-SUFFIX,act.qq.com
@@ -878,17 +868,6 @@ DOMAIN-SUFFIX,wbpctips.mobile.sina.cn
 DOMAIN-SUFFIX,whn.star-media.cn
 DOMAIN-SUFFIX,woocall.sina.com.cn
 DOMAIN-SUFFIX,zymo.mps.weibo.com
-
-// Shumilou
-DOMAIN-SUFFIX,70e.com
-DOMAIN-SUFFIX,drdwy.com
-DOMAIN-SUFFIX,e701.net
-DOMAIN-SUFFIX,jisucn.com
-DOMAIN-SUFFIX,m.12306media.com
-DOMAIN-SUFFIX,sanya1.com
-DOMAIN-SUFFIX,stats.magicwindow.cn
-DOMAIN-SUFFIX,xyrkl.com
-DOMAIN-SUFFIX,zhuanfakong.com
 
 // Sougou
 DOMAIN-SUFFIX,123.sogou.com
