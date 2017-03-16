@@ -500,7 +500,14 @@ DOMAIN-SUFFIX,w.m.taobao.com
 DOMAIN-SUFFIX,yiliao.hupan.com
 
 // Auto home
-DOMAIN-SUFFIX,adm3.autoimg.cn,REJECT
+DOMAIN-SUFFIX,33.autohome.com.cn
+DOMAIN-SUFFIX,adm0.autoimg.cn
+DOMAIN-SUFFIX,adm1.autoimg.cn
+DOMAIN-SUFFIX,adm2.autoimg.cn
+DOMAIN-SUFFIX,adm3.autoimg.cn
+DOMAIN-SUFFIX,at.mct01.com
+DOMAIN-SUFFIX,c.autohome.com.cn
+DOMAIN-SUFFIX,pcd.autohome.com.cn
 
 // Baidu
 DOMAIN-SUFFIX,a.baidu.com
