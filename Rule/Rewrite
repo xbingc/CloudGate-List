@@ -141,7 +141,7 @@
 
 // 163 music
 ^https?://163\.com\/madr\?app=\b.*platform=\b.*uid.* _ reject
-^https?://p3.music.126.net/+/(\d).jpg?res=(\d) _reject
+^https?://p3.music.126.net/+/(\d).jpg?res=(\d) _ reject
 
 // Douyu
 ^https?://capi.douyucdn.cn/lapi/sign/appapi/ _ reject
@@ -237,7 +237,7 @@
 ^https?://m.yhd.com/1/\? http://m.yhd.com/1/\?adbock= 302
 ^https?://mp.weixin.qq.com/mp/report _ reject
 ^https?://nga\.cn.*\bhome.*\b=ad.* _ reject
-^https?://player.hoge.cn/advertisement.swf _reject
+^https?://player.hoge.cn/advertisement.swf _ reject
 ^https?://s1.api.tv.itc.cn/v4/mobile/feeling/list.json\?.* _ reject
 ^https?://s3.pstatp.com/inapp/TTAdblock.css _ reject
 ^https?://sqimg.qq.com/ https://sqimg.qq.com/ 302
@@ -245,38 +245,32 @@
 ^https?://static.cnbetacdn.com/assets/adv _ reject
 ^https?://static.iask.cn/m-v20161228/js/common/adAudit.min.js _ reject
 ^https?://static.m.ttkvod.com/static_cahce/index/index.txt http://ogtre5vp0.bkt.clouddn.com/Static/TXT/index.txt header
-^https?://tb1.bdstatic.com/tb/cms/ngmis/adsense/*.jpg _reject
+^https?://tb1.bdstatic.com/tb/cms/ngmis/adsense/*.jpg _ reject
 ^https?://v.17173.com/api/Allyes/ _ reject
 ^https?://wmedia-track.uc.cn _ reject
 ^https?://www.iqshw.com/d/js/m http://rewrite.websocket.site:10/Other/Static/JS/Package.js? header
-^https?://www.lianbijr.com/adPage/* _reject
+^https?://www.lianbijr.com/adPage/* _ reject
 
 // Test
-^https?://*.pstatp.com/origin/* _ reject
-^https?://*/_ad/* _ reject
+^https?://*.info/ad/* _ reject
 ^https?://*/a_d/* _ reject
 ^https?://*/ad.js _ reject
-^https?://*/AdCenter/* _ reject
-^https?://*/adlink/* _ reject
 ^https?://*/ads.js _ reject
 ^https?://*/ads/* _ reject
-^https?://*/adsense/* _ reject
-^https?://*/adstat/* _ reject
-^https?://*/adstatic/* _ reject
-^https?://*/advert/* _ reject
-^https?://*/ajds _ reject
 ^https?://*/cpv/* _ reject
-^https?://*/guanggao/* _ reject
-^https?://*/java/shang1.js _ reject
-^https?://*/java/xia1.js _ reject
-^https?://*/java/youxia.js _ reject
-^https?://*/java/zuoxia.js _ reject
+^https?://*/gaog/* _ reject
+^https?://*/ggao.* _ reject
+^https?://*/ggao/* _ reject
+^https?://*/ggjs/* _ reject
+^https?://*/guangao/* _ reject
+^https?://*/js/ad/* _ reject
 ^https?://*/js/ad_* _ reject
 ^https?://*/js/ads/* _ reject
-^https?://*/js/alls_foot.js _ reject
-^https?://*/js/alls_top.js _ reject
-^https?://*/jsbjl/zhanqun* _ reject
 ^https?://*/pc/ad/* _ reject
-^https?://*/VediosAD/* _ reject
-^https?://*/vodad.js _ reject
-^https?://*2012.8684*.com/ _ reject
+^https?://*/sogouAD.* _ reject
+^https?://*/tan.js _ reject
+^https?://*/tanad.js _ reject
+^https?://*/tanchuang.* _ reject
+^https?://*/taobaoad.html _ reject
+^https?://*/tuiguang/* _ reject
+^https?://*2012.8684*.com/* _ reject
