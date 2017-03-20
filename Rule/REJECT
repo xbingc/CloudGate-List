@@ -346,7 +346,6 @@ DOMAIN-SUFFIX,bobo.163.com
 DOMAIN-SUFFIX,c-hzgt2.getui.com
 DOMAIN-SUFFIX,clkservice.youdao.com
 DOMAIN-SUFFIX,conv.youdao.com
-DOMAIN-SUFFIX,count.mail.163.com
 DOMAIN-SUFFIX,crashlytics.163.com
 DOMAIN-SUFFIX,dsp-impr2.youdao.com
 DOMAIN-SUFFIX,f1.p0y.cn
@@ -740,11 +739,13 @@ DOMAIN-SUFFIX,zz.bdstatic.com
 
 // Book
 DOMAIN-SUFFIX,70e.com
+DOMAIN-SUFFIX,game.qidian.com
 DOMAIN-SUFFIX,ad.zhangyue.com
-DOMAIN-SUFFIX,api.itaoxiaoshuo.com
+DOMAIN-SUFFIX,adm.easou.com
+DOMAIN-SUFFIX,assets.easou.com
 DOMAIN-SUFFIX,cj.qidian.com
 DOMAIN-SUFFIX,da.hxspc.com
-DOMAIN-SUFFIX,drdwy.com
+DOMAIN-SUFFIX,drdwy.com,REJECT
 DOMAIN-SUFFIX,dwtrack.qidian.com
 DOMAIN-SUFFIX,e701.net
 DOMAIN-SUFFIX,ethod.gzgmjcx.com
@@ -752,10 +753,15 @@ DOMAIN-SUFFIX,game.qidian.com
 DOMAIN-SUFFIX,jisucn.com
 DOMAIN-SUFFIX,m.12306media.com
 DOMAIN-SUFFIX,o.if.qidian.com
+DOMAIN-SUFFIX,push.zhangyue.com
 DOMAIN-SUFFIX,s1.cmfu.com
 DOMAIN-SUFFIX,sanya1.com
 DOMAIN-SUFFIX,stats.magicwindow.cn
+DOMAIN-SUFFIX,tjlog.easou.com
+DOMAIN-SUFFIX,tjlog.ps.easou.com
 DOMAIN-SUFFIX,tongji.qidian.com
+DOMAIN-SUFFIX,uedas.qdmm.com
+DOMAIN-SUFFIX,uedas.qidian.com
 DOMAIN-SUFFIX,ut2.shuqistat.com
 DOMAIN-SUFFIX,xyrkl.com
 DOMAIN-SUFFIX,zhuanfakong.com
