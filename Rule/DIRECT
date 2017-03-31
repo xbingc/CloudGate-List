@@ -1,12 +1,11 @@
+
 # direct ／ proxy
 
 // Sony
 DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.com.hk
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sony.com.hk
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
@@ -36,7 +35,6 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,bbs.feng.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bilibili.com
@@ -62,6 +60,7 @@ DOMAIN-SUFFIX,duoshuo.com
 DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,easou.com
 DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,ecitic.net
 DOMAIN-SUFFIX,ewqcxz.com
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fir.im
@@ -129,6 +128,7 @@ DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,sinaimg.com
 DOMAIN-SUFFIX,snwx.com
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,sogou.com
