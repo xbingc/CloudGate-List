@@ -165,30 +165,16 @@ DOMAIN-SUFFIX,aiseet.aa.atianqi.com
 DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN-SUFFIX,bla.gtimg.com
 DOMAIN-SUFFIX,btrace.video.qq.com
-DOMAIN-SUFFIX,c.l.qq.com
-DOMAIN-SUFFIX,dp3.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,dp3.qq.com
 DOMAIN-SUFFIX,jqmt.qq.com
 DOMAIN-SUFFIX,jsqmt.qq.com
-DOMAIN-SUFFIX,l.qq.com
-DOMAIN-SUFFIX,livep.l.aiseet.atianqi.com
-DOMAIN-SUFFIX,lives.l.aiseet.atianqi.com
-DOMAIN-SUFFIX,livew.l.qq.com
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
-DOMAIN-SUFFIX,monitor-uu.play.aiseet.atianqi.com
-DOMAIN-SUFFIX,news-l.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,omgmta1.qq.com
-DOMAIN-SUFFIX,otheve.play.aiseet.atianqi.com
-DOMAIN-SUFFIX,othstr.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,p.tencentmind.com
 DOMAIN-SUFFIX,pinghot.qq.com
-DOMAIN-SUFFIX,p-l.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,ra.gtimg.com
-DOMAIN-SUFFIX,sdkconfig.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,tj.video.qq.com
-DOMAIN-SUFFIX,t-l.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,vmindhls.tc.qq.com
-DOMAIN-SUFFIX,vv.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
 DOMAIN-SUFFIX,wxsnsdy.video.qq.com
@@ -246,8 +232,6 @@ DOMAIN-SUFFIX,store.tv.api.3g.youku.com
 DOMAIN-SUFFIX,store.xl.api.3g.youku.com
 DOMAIN-SUFFIX,tdrec.youku.com
 DOMAIN-SUFFIX,test.ott.youku.com
-DOMAIN-SUFFIX,test.sdk.m.youku.com
-DOMAIN-SUFFIX,urchin.lstat.youku.com
 DOMAIN-SUFFIX,v.l.youku.com
 DOMAIN-SUFFIX,val.api.youku.com
 DOMAIN-SUFFIX,wan.youku.com
@@ -262,17 +246,11 @@ DOMAIN-SUFFIX,couchcoaster.jp
 DOMAIN-SUFFIX,crt.comodoca.com
 DOMAIN-SUFFIX,delivery.dmkt-sp.jp
 DOMAIN-SUFFIX,ehg-youtube.hitbox.com
-DOMAIN-SUFFIX,files.adform.net
-DOMAIN-SUFFIX,gcdn.2mdn.net
 DOMAIN-SUFFIX,m-78.jp
 DOMAIN-SUFFIX,nichibenren.or.jp
 DOMAIN-SUFFIX,nicorette.co.kr
 DOMAIN-SUFFIX,s.youtube.com
 DOMAIN-SUFFIX,s2.youtube.com
-DOMAIN-SUFFIX,shizen-no-megumi.com
-DOMAIN-SUFFIX,ssl-youtube.2cnt.net
-DOMAIN-SUFFIX,youtube.112.2o7.net
-DOMAIN-SUFFIX,youtube.2cnt.net
 
 // Sohu
 DOMAIN-SUFFIX,888.tv.sohu.com
@@ -1123,7 +1101,6 @@ DOMAIN-SUFFIX,client.video.ucweb.com
 DOMAIN-SUFFIX,cms.ucweb.com
 DOMAIN-SUFFIX,dispatcher.upmc.uc.cn
 DOMAIN-SUFFIX,huichuan.sm.cn
-DOMAIN-SUFFIX,iflow.uczzd.cn
 DOMAIN-SUFFIX,iflow.uczzd.com
 DOMAIN-SUFFIX,iflow.uczzd.com.cn
 DOMAIN-SUFFIX,iflow.uczzd.net
@@ -1131,7 +1108,6 @@ DOMAIN-SUFFIX,log.cs.pp.cn
 DOMAIN-SUFFIX,m.uczzd.cn
 DOMAIN-SUFFIX,patriot.cs.pp.cn
 DOMAIN-SUFFIX,puds.ucweb.com
-DOMAIN-SUFFIX,safe.ucweb.com
 DOMAIN-SUFFIX,server.m.pp.cn
 DOMAIN-SUFFIX,track.uc.cn
 DOMAIN-SUFFIX,u.uc123.com
