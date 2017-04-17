@@ -30,11 +30,13 @@ DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,bbs.feng.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bilibili.com
@@ -61,6 +63,7 @@ DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,easou.com
 DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,ecitic.net
+DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,ewqcxz.com
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fir.im
@@ -107,6 +110,7 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qcloud.com
@@ -145,11 +149,13 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,uxengine.net
 DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weiphone.com
 DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,windowsupdate.com

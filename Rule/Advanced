@@ -5,14 +5,12 @@
 DOMAIN-SUFFIX,kakao.com
 
 // Line
-DOMAIN-SUFFIX,line-apps.com,force-remote-dns
+DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line.me,force-remote-dns
-DOMAIN-SUFFIX,line.naver.jp,force-remote-dns
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
 
 // MytvSUPER & Netflix
-DOMAIN-KEYWORD,nowtv100
-DOMAIN-KEYWORD,rthklive
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -74,7 +72,7 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bbtoystore.com
 DOMAIN-SUFFIX,bigsound.org
-DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,bintray.com,enhanced-mode
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
@@ -185,7 +183,7 @@ DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.com,enhanced-mode
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubusercontent.com
